@@ -1,0 +1,24 @@
+Copyright (c) 2026 Robyn Miller. All rights reserved.
+
+This page, its design, its code and its own words may not be copied, reproduced,
+modified or redistributed without written permission.
+
+Material inside it that belongs to others keeps its own terms:
+  - Places, population figures, depopulation and founding dates, 1940s village land
+    boundaries and the list of oral-history interviews: Palestine Open Maps
+    (Visualizing Palestine, palopenmaps.org; github PalOpenMaps/pom-data), drawing on
+    the British censuses of 1922 and 1931 and the Village Statistics of 1945, Zochrot,
+    Palestine Remembered and the work of Salman Abu Sitta. No licence is stated for
+    this data; it is credited to its makers and used with acknowledgement.
+  - Historical maps: Survey of Palestine 1:250,000 (1946) and 1:20,000 (1940s),
+    public domain, shown live from palopenmaps.org.
+  - Air photographs: Royal Air Force, 1940s, as compiled by Palestine Open Maps
+    (shown live via jsDelivr).
+  - Satellite picture: Esri World Imagery, shown live under Esri's terms of use;
+    not stored in this repository.
+  - Outlines: OCHA Common Operational Datasets (HDX, CC BY-IGO); geoBoundaries
+    (from OpenStreetMap, ODbL 1.0); Natural Earth (public domain).
+  - The 1937 and 1947 partition plans are traced from the Royal Commission's map
+    (UK Government, public domain) and UN Map No. 103.1(b) (United Nations).
+  - Moments are written for this page from Wikipedia articles (CC BY-SA), which
+    they link; no Wikipedia text is reproduced beyond short quotations.
